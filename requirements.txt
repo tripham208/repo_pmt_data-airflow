@@ -1,0 +1,7 @@
+apache-airflow~=2.10.0
+apache-airflow-providers-postgres
+apache-airflow-providers-amazon
+pendulum~=3.0.0
+urllib3~=2.2.1
+minio~=7.2.8
+boto3~=1.35.5
